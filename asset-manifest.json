@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pokemon-grid/static/css/main.0dd0ac20.css",
+    "main.js": "/pokemon-grid/static/js/main.27c1d3c3.js",
+    "static/media/pokeball.png": "/pokemon-grid/static/media/pokeball.493785ffc371d4b347d8.png",
+    "static/media/logo.png": "/pokemon-grid/static/media/logo.c8e5f5413616d2d8709c.png",
+    "index.html": "/pokemon-grid/index.html",
+    "main.0dd0ac20.css.map": "/pokemon-grid/static/css/main.0dd0ac20.css.map",
+    "main.27c1d3c3.js.map": "/pokemon-grid/static/js/main.27c1d3c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dd0ac20.css",
+    "static/js/main.27c1d3c3.js"
+  ]
+}
